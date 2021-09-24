@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap");
+body {
+  background-color: black;
+  color: aliceblue;
+  font-family: "Gemunu Libre", sans-serif;
+}
+.head {
+  font-weight: bolder;
+  text-align: center;
+  padding: 1rem;
+}
+.conta {
+  width: 50%;
+  height: 40%;
+  display: block;
+  margin: auto;
+  border-radius: 1rem;
+  border-color: aliceblue;
+  border-style: solid;
+  padding: 1rem;
+  background-color: dimgray;
+  color: black;
+}
+label {
+  display: block;
+  text-align: center;
+  font-size: larger;
+}
+input {
+  display: block;
+  margin: 15px auto;
+  width: 200px;
+  padding: 1rem;
+  border-radius: 1rem;
+  border-color: black;
+  font-family: "Gemunu Libre", sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+}
+.btn {
+  padding: 0.5rem;
+  background-color: black;
+  color: aliceblue;
+  font-family: "Gemunu Libre", sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  border-radius: 1rem;
+  display: block;
+  margin: 20px auto;
+}
+.msg {
+  font-size: larger;
+  padding: 1rem;
+}
